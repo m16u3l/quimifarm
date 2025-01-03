@@ -32,7 +32,7 @@ export default function Hero() {
       >
         Cuidando tu salud las 24 horas del día
       </Typography>
-      {/* <Button
+      <Button
         variant="contained"
         size="large"
         sx={{
@@ -41,7 +41,7 @@ export default function Hero() {
         }}
       >
         Ver Productos
-      </Button> */}
+      </Button>
     </Box>
   );
 }
